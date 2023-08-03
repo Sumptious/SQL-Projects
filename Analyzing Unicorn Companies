@@ -3,4 +3,4 @@ The insights generated will guide the investors on which industry to invest thei
 I Utilized SQL to analyze information about unicorn companies worth over $1 billion.
 I worked with missing data as well as numeric, string and timestamp data types to Extract the year period required for the analysis.
 I Implemented techniques such as aggregation, JOINS, Common Table Expressions to produce industries with high growth rate companies.
-![View Project](https://app.datacamp.com/workspace/w/f2e0de22-b1c1-4e44-a0f4-24d05a2810d8)
+<a href = "https://app.datacamp.com/workspace/w/f2e0de22-b1c1-4e44-a0f4-24d05a2810d8">View Project</a>
